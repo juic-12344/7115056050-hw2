@@ -1,2 +1,8 @@
-# Original analysis
-Original HW2 notebook and PDF report retained with the deployed project.
+# 原始 Colab 分析與部署更新
+
+- Notebook：`7115056050_hw2.ipynb`
+- PDF 報告：`7115056050_hw2_報告.pdf`
+- 正式網站：https://7115056050-hw2.streamlit.app/
+- GitHub：https://github.com/juic-12344/7115056050-hw2
+
+2026-10-22 已更新部署描述與正式網址。Notebook 與報告保留使用 **1,117,957 筆完整資料**完成的 Colab 實驗，既有程式碼、已儲存輸出、模型數值與圖表均保留。網站洪水題目另使用 **16,000 筆固定抽樣資料**即時訓練；數值可能不同，不能以網站抽樣結果替換原 Colab 完整實驗。
