@@ -1,15 +1,19 @@
-新版 HW2 正式繳交：請在部署完成後填寫「實際網址」；不要繳交以下空白模板。
+HW2 正式繳交資訊
 
 學號：7115056050
-GitHub Repository：
-Web 網頁（Streamlit）：
+GitHub Repository：https://github.com/juic-12344/7115056050-hw2
+正式網站：https://7115056050-hw2.streamlit.app/
 
-檢查項目：
-[ ] 網頁網址可由無痕視窗打開
-[ ] 下拉選單可選 ① 洪水預測 與 ② 50_Startups 獲利預測
-[ ] 輸入公開 CSV 網址後能載入新資料
-[ ] 選取 Target、執行模型評估、顯示預測圖
-[ ] README.md 在 GitHub 儲存庫首頁可看到
-[ ] app.py、ml_core.py、requirements.txt、data/ 皆已上傳 GitHub
+2026-10-22 驗收：
+[x] 正式網站正常開啟，分享設定為公開
+[x] 下拉選單切換洪水與新創公司兩種 Problem
+[x] 輸入自訂公開 CSV 網址後成功載入與建模
+[x] 調整 k、查看 MAE/MSE/RMSE/R²
+[x] 兩種 Problem 均送出自訂資料並顯示預測
+[x] 散佈圖、預測區間與 CRISP-DM 頁籤顯示
+[x] 模型指標 CSV 實際下載成功
+[x] README、程式、依賴、資料集、原 Notebook/PDF 已提交 GitHub
 
-作業補充：原 Notebook 和 PDF 在 analysis/ 目錄；完整 GPT 對話 PDF 不要公開上傳，除非你確認願意公開其中內容。
+詳細測試紀錄：Repository 中的 TEST_RESULTS.md
+本機自動測試：6 passed。
+未另外建立無痕瀏覽器測試；已確認 Share 中的公開設定。
