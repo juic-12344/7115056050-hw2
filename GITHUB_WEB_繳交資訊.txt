@@ -1,0 +1,15 @@
+新版 HW2 正式繳交：請在部署完成後填寫「實際網址」；不要繳交以下空白模板。
+
+學號：7115056050
+GitHub Repository：
+Web 網頁（Streamlit）：
+
+檢查項目：
+[ ] 網頁網址可由無痕視窗打開
+[ ] 下拉選單可選 ① 洪水預測 與 ② 50_Startups 獲利預測
+[ ] 輸入公開 CSV 網址後能載入新資料
+[ ] 選取 Target、執行模型評估、顯示預測圖
+[ ] README.md 在 GitHub 儲存庫首頁可看到
+[ ] app.py、ml_core.py、requirements.txt、data/ 皆已上傳 GitHub
+
+作業補充：原 Notebook 和 PDF 在 analysis/ 目錄；完整 GPT 對話 PDF 不要公開上傳，除非你確認願意公開其中內容。
